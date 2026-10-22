@@ -7,7 +7,7 @@ assignees: ""
 ---
 
 ## User story
-As a <type of user>, I want <goal> so that <benefit>.
+As a [type of user], I want [goal] so that [benefit].
 
 ## Acceptance criteria
 - [ ]
